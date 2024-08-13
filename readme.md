@@ -24,3 +24,14 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/KutbuddinKhan/data-analytics-visualization-portal.git
    cd data-analytics-visualization-portal
+
+2. **Install dependencies**:
+    ```bash
+    pip install -r requirements.txt
+
+3. **Run the application**:
+    ```bash
+    streamlit run app.py
+
+5. **Access the application**:
+    Open a web browser and navigate to `http://localhost:8501` to access the Data
