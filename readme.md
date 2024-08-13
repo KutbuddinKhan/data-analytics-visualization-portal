@@ -35,3 +35,7 @@ To run this project locally, follow these steps:
 
 5. **Access the application**:
     Open a web browser and navigate to `http://localhost:8501` to access the Data
+
+**Accessing the Deployed App**
+    You can access the deployed app at the following URL:
+    `https://data-analytics-visualization.streamlit.app/`
